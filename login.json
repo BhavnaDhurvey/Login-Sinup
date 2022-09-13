@@ -1,0 +1,24 @@
+{
+    "User": [
+        {
+            "Username": "Archana",
+            "Password": "Archana@1",
+            "Profile": {
+                "Description": "wel",
+                "D.O.B": "6.6.2004",
+                "Gender": "femle",
+                "Hobbies": "singing"
+            }
+        },
+        {
+            "Username": "Bhavna",
+            "Password": "BHAVNa@1",
+            "Profile": {
+                "Description": "xcvbnm",
+                "D.O.B": "asdfghjkl",
+                "Gender": "fmail",
+                "Hobbies": "sdfghjk"
+            }
+        }
+    ]
+}
